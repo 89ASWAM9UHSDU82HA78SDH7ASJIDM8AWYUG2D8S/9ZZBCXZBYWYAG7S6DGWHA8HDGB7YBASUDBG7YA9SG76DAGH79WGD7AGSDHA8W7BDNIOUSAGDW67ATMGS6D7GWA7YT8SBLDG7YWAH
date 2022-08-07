@@ -997,7 +997,7 @@
             Text = 'Speed',
         
             Default = 5,
-            Min = 1,
+            Min = 0,
             Max = 5,
             Rounding = 0,
         
